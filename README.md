@@ -1,2 +1,3 @@
 # Hello-world
-This code is the begining on Github
+#This code is the begining on Github
+print('hello world')
